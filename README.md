@@ -1,8 +1,8 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-# @ts-templates/node14
+# @ts-templates/node12
 
-Template for TypeScript project using Node.js v14
+Template for TypeScript project using Node.js v12
 
 ## Features
 
@@ -18,6 +18,6 @@ Template for TypeScript project using Node.js v14
 
 1. [Create repository](https://github.com/ts-templates/node14/generate) using template
 2. Replace provisional string with actual string
-    - `@ts-templates/node14` => your package name
-    - `Template for TypeScript project using Node.js v14` => your package description
+    - `@ts-templates/node12` => your package name
+    - `Template for TypeScript project using Node.js v12` => your package description
 3. Implement `src/main.ts`
