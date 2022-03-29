@@ -7,6 +7,7 @@
       "node": "12.20.2"
     }
   },
+  "labels": ["renovate"],
   "packageRules": [
     {
       "matchPackageNames": ["@types/node"],
@@ -16,5 +17,6 @@
       "matchPackageNames": ["node"],
       "allowedVersions": "<13"
     }
-  ]
+  ],
+  "separateMultipleMajor": true
 }
