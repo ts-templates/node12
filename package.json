@@ -13,7 +13,7 @@
     "test": "jest --passWithNoTests"
   },
   "engines": {
-    "node": "12.20.2"
+    "node": "12.22.12"
   },
   "devDependencies": {
     "@jest/types": "27.0.6",
